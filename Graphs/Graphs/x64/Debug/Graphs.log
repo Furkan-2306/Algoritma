@@ -1,0 +1,3 @@
+﻿  Kaynak.cpp
+C:\Users\furka\OneDrive\Masaüstü\yazılım\Algoritma\Graphs\Graphs\Kaynak.cpp(22,19): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  Graphs.vcxproj -> C:\Users\furka\OneDrive\Masaüstü\yazılım\Algoritma\Graphs\x64\Debug\Graphs.exe
